@@ -1,0 +1,114 @@
+
+/* rw1{
+    padding-top: 150px;
+    padding-bottom: 180px;
+    text-align: center;
+} */
+/* body{
+    background-color: rgb(224, 221, 38);
+}
+.cn{
+    padding-bottom: 15px;
+}
+.col-lg-4{
+    width: 50%;
+}
+.btn{
+    position:absolute;
+    background-color: #4CAF50;
+    border: none;
+    font-size: 28px;
+    color: #FFFFFF;
+    padding: 20px;
+    width: 100px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+} */
+
+/* .btn:after {
+    content: "";
+    background: blue;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px!important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+    
+  }
+
+  .btn:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+    
+  }
+.rowrw1{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+} */
+
+/* .card{
+    width:400px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:100px;
+    text-align:center;
+    padding:30px;	
+    border:4px #a517ba solid;
+    border-radius:5px;	
+} */
+
+/* .card:hover{
+    
+     transform: scale(1.05); 
+   transition: all  .4s cubic-bezier(0.075, 0.82, 0.165, 1);
+    box-shadow: 0 0 40px -10px rgba(0, 0, 0, 0.25);
+}
+
+.slideUpBtn {
+    padding: 12px 24px;
+    background-color: transparent;
+    border: 2px solid hsl(243, 80%, 62%);
+    border-radius: 6px;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.5s cubic-bezier(1,.15,.34,.92)
+} */
+    body {
+      display: flex;
+       min-height: 100vh;
+      flex-direction: column;
+    }
+    man{
+        height: 130px;
+
+      }
+main {
+  flex: 1 0 auto;
+}
+.blacktext {
+      color: black;
+      font-size: 20px;
+}
+
+#loc_info{
+
+font-size: large;
+font-weight: bold;
+margin-left: 45%;
+}
+
+tr{
+    font-size: large;
+    font-weight: bold;
+}
